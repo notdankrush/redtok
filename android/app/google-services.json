@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483000701076",
+    "project_id": "redtok-baec3",
+    "storage_bucket": "redtok-baec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483000701076:android:d067de334521fde930e481",
+        "android_client_info": {
+          "package_name": "com.example.redtok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483000701076-9irgk1s4jm5jkiieelmv8b2ci1mueu6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApj3XdxoyDpqJx2bj7227I2UOlZJ-sBTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483000701076-9irgk1s4jm5jkiieelmv8b2ci1mueu6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
